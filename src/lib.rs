@@ -1,3 +1,4 @@
+#![no_std]
 #![feature(const_fn, const_fn_union, const_str_as_bytes, const_str_len, const_let, untagged_unions)]
 
 #[allow(unions_with_drop_fields)]
